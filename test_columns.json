@@ -1,0 +1,42 @@
+[
+    {
+        "width": 1,
+        "label": "序号",
+        "isLink": false
+    },
+    {
+        "width": 2,
+        "label": "学校名称",
+        "isLink": true
+    },
+    {
+        "width": 2,
+        "label": "所在省市",
+        "isLink": false
+    },
+    {
+        "width": 2,
+        "label": "院校隶属",
+        "isLink": false
+    },
+    {
+        "width": 2,
+        "label": "一流大学",
+        "isLink": false
+    },
+    {
+        "width": 2,
+        "label": "985高校",
+        "isLink": false
+    },
+    {
+        "width": 2,
+        "label": "211高校",
+        "isLink": false
+    },
+    {
+        "width": 2,
+        "label": "一流学科",
+        "isLink": false
+    }
+]
